@@ -1,4 +1,4 @@
-service: aws-python-sqs-worker-project
+service: auto-pub
 frameworkVersion: '2'
 
 provider:
